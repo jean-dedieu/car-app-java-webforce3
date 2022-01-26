@@ -47,10 +47,4 @@ public class Parking {
 		return floor;
 		}
 		
-
-	public void setFloor(int[] floor) {
-		this.floor = floor;
-	}
-	//TODO: implement instances methods
-
 }
