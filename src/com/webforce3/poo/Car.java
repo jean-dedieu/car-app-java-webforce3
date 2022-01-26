@@ -1,4 +1,4 @@
-package com.poobis;
+package com.webforce3.poo;
 
 import java.util.Scanner;
 
